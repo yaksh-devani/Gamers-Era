@@ -31,13 +31,9 @@ Users should be able to:
 - Navigate between Home, Bookmarks, Collections, Messages, Users' Profile and other dynamic routes
 - **Bonus**: Build this project as a full-stack application
 
-### Screenshot
-
-![screenshot](./screenshot.png)
-
 ### Links
 
-- Live Site URL: [https://game-zone-kens-visuals.vercel.app/](https://game-zone-kens-visuals.vercel.app/)
+- Live Site URL: [#](#)
 
 ## My process
 
