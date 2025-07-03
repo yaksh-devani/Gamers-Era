@@ -62,9 +62,6 @@ In conclusion, this project has been one wild ride. And I'm thrilled with the en
 - [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Flowbite is an open-source library of UI components based on the utility-first Tailwind CSS framework featuring dark mode support, a Figma design system, and more.
 - [Mastering data fetching with React Query and Next.js](https://prateeksurana.me/blog/mastering-data-fetching-with-react-query-and-next-js/) - Really cool article that helped me to get started with Next.JS and React Query.
 
-## Author's Links
+## Author
 
-- Medium - [@kens_visuals](https://medium.com/@kens_visuals)
-- CodePen - [@kens-visuals](https://codepen.io/kens-visuals)
-- Codewars - [@kens_visuals](https://www.codewars.com/users/kens_visuals)
-- Frontend Mentor - [@kens-visuals](https://www.frontendmentor.io/profile/kens-visuals)
+@yaksh9737
