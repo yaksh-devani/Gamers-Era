@@ -60,4 +60,4 @@ In conclusion, this project has been one wild ride. And I'm thrilled with the en
 
 ## Author
 
-@yaksh9737
+[@Yaksh Devani](https://github.com/yaksh-devani/)
